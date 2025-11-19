@@ -1,4 +1,4 @@
-Library Management System
+### Library Management System
 
 A simple and user-friendly Library Management System built with Java Swing, designed as a final project for Object-Oriented Programming (OOP) course at University of Science and Technology of Southern Philippines - CDO Campus
 

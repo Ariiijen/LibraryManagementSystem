@@ -8,24 +8,33 @@ This is a complete desktop application that helps manage library operations with
 
 ✨ Features
 
-· 🔐 User Authentication - Secure login system with different user roles
+· 🔐 User Authentication - Secure login system with different user roles 
+
 · 📖 Book Management - View all available books in the library
 · 🔍 Search Functionality - Find books by title, author, genre, or ISBN
+
 · 👥 Role-Based Access - Different permissions for admin, librarian, and regular users
+
 · ➕ Book Operations - Add new books and remove existing ones (admin/librarian only)
+
 · 🚪 Session Management - Secure login and logout system
 
 👤 User Roles
 
 · Admin - Full access to all features including book management
+
 · Librarian - Can manage books and view all library data
+
 · User - Can browse and search books only
 
 🛠️ Technologies Used
 
 · Java Swing - For the graphical user interface
+
 · Object-Oriented Programming - Following OOP principles
+
 · MVC Architecture - Model-View-Controller design pattern
+
 · In-Memory Data Storage - No database required
 
 🚀 How to Run
